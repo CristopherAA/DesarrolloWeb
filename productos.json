@@ -1,0 +1,64 @@
+[{
+		"titulo": "Jitomate Saladet",
+		"url": "https://i.pinimg.com/originals/6d/48/bd/6d48bd138f272a340c17b8e21dd7f47a.png",
+		"precio": 32.90,
+		"tipo_de_producto": "frutas y verduras",
+		"descripcion": "Un ingrediente esencial que no debe faltar en tus recetas de cocina mexicana es el jitomate, con el cual podrás realizar un sinfín de platillos de cocina, también podrás incluirlo en ensaladas o disfrutar en recetas típicas como sopas y caldos."
+	},
+	{
+		"titulo": "Nutrioli DHA",
+		"url": "https://ysisupersaludable.com/web/image/product.template/13551/image_256",
+		"precio": 62.00,
+		"tipo_de_producto": "abarrotes",
+		"descripcion": "Cocina saludable con Nutrioli DHA, el primer aceite funcional en México. Adicionado con DHA, un ácido graso esencial en la alimentación que puede contribuir al funcionamiento cerebral en la gestación y la niñez, favoreciendo la concentración y el aprendizaje."
+	},
+	{
+		"titulo": "Ron Bacardí Carta Blanca Superior 980 ml",
+		"url": "https://www.vinasa.mx/wp-content/uploads/2021/07/Bacardi-blanco.png",
+		"precio": 259.00,
+		"tipo_de_producto": "vinos y licores",
+		"descripcion": "Bacardí Carta Blanca es un ron blanco, suave y aromático con notas florales y afrutadas (durazno, coco y plátano). "
+	},
+	{
+		"titulo": "Cerveza clara Modelo Especial 6 latas de 355 ml c/u",
+		"url": "https://www.alambique251.com/cdn/shop/products/Modelo_Especial_Lata_Six_1200x1200.jpg?v=1689798702",
+		"precio": 105.00,
+		"tipo_de_producto": "vinos y licores",
+		"descripcion": "Cerveza Modelo Especial en presentación lata 6 pack 355 ml, una cerveza lager de estilo American Pilsner, clara, de color dorado intenso. "
+	},
+	{
+		"titulo": "Whisky Johnnie Walker Red Label Blended Scotch 700 ml",
+		"url": "https://mrbrown.com.mx/cdn/shop/products/Foto_64.jpg?v=1635719598",
+		"precio": 325.00,
+		"tipo_de_producto": "vinos y licores",
+		"descripcion": "Red Label con notas afrutadas y canela, razón por la cual es utilizado en muchos tragos de coctelería. "
+	},
+	{
+		"titulo": "Papaya Maradol",
+		"url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUQERMSFhUVFhUVFhcVFRcVGBYVGBUWFhUXFRUYHSggGRolGxUVITEiJSkrLi4wFx8zODMsNyguLi0BCgoKDg0OGxAQGy8lICUtLS81LS8vLS0tLS0tLS0tLS0tLy0tLS01LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMkA+gMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAABAYDBQcCAf/EADwQAAIBAgQEBAMGBAUFAQAAAAECAAMRBBIhMQUGQVETImFxMoGRQlKhscHRFHLh8BUjYpLxQ1OCwtIH/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAMFAgQGAQf/xAA2EQACAQIDBAoBAwIHAAAAAAAAAQIDEQQhMQUSUWEiQXGBkaGxwdHwEzJC4RXxIyQzQ1Jy0v/aAAwDAQACEQMRAD8A7jERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBET5eAfYiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIlTx/MtT+JbC4cUyU+Im5y2AzFjcAAEgdd5HVqxpR3pGUYuWSNrx7iZoKLbn8JWDzJUv8bfhNhxs57XOY21toL+glVr0QDobzjsbj51cRLcm1FaWfLlxZ0Gz8NSdLpRz7Cy4bmlx8RB+X6ibfCcxUm+LymUOlRvBQrteeUtq4mnkp37c/58yars3Dzdlk+X2x1OlVVhdSCPSZZy/DcSq0zcNa3YywYDm07VFv6jT/AJl1Q25SllVW6+Oq+V4Mq62yasM4dJeZcIkDCcVo1PhcX7HQydLmnUhUjvQaa5ZlbKMou0lZn2IiZmIiIgCIiAIiIAiIgCIiAIifLwAZqcdx+jT0JzHsuv1O00PMXHWYmnTNkGhI3b+kr285zGbbae7Qt/2fsvd+Bc4XZW8t6tly+Sz1+bj9lAP5iT+VpDq821+gQf8Aj+5miJtPAMqpbRxctaj8l6JFpDZ+Hj+xd+fqb0c4V+yf7f6zPT5ycfFTQj0uJV3IgHSeraGKX+4/G/rckls/DS/YvT0Lrh+daJ+NGX2Ib9pssPzHhm/6gH8wtOZ1acwMrDvNyltfEJZtPtX/AJ3SGWxcNP8AS2u/5udbq8Tp5SyujEdAwP5Sk43HnxHfKoLkFrC2awsLnrYSNy+bKSep+ulv1kzH4fqJp47aFTFdGWSWqWnaQUcHTw1VxefNmAcSJFivtMdGuhbzXv6C9/lMHha3mfDUwGU+olbaEUb7hBJ2NvSwmFYZ1z69L2+omHEUqWwQ7/eMycS4UoYPTZl1zkDY63IsdryBUZ89jY5tPnvNrEzUZOG6k1y/jhnqzTpvf6UZvsd8j1U4fTI3ZT9R+8h4nhzrroR3TX6iTPGH3vr6TFS41hzV8HxMtQ3FrEjMBcLcCwJ9ZhHeqO0I5/c3y5k35Z01dvLn9uQASNpsMDxuvStZtOx1H1M9VUpnXa/VLDX1GxkKrhWGo1Hp+onkJunLeTs+KdvNE7dOqrTXiW3Ac2o2lVSp7jUfTcSw4fEJUGZGDDuDOWAdZmwuNqUzmpsVPp+o6y4w22q0MqvSXg/h9/iVtfZFOWdJ7r8vk6pErHCOaVeyVfKfvD4T7jp/e0sqsDqJ0eHxVLER3qbv6rtRR1qFSjLdqK3v2HqIibBCIiIAiIgCIiAJq+P4nJRa27Cw+e82krXNlS4C9hf6n+k0NqVnSwk5J2dreLt7mxhIKdaKfH0KdVa5kepWCi95lrCaXiGbMLG04ylTUnY7ajTU3a5t6a592C9gfjPsDJ+HwFMeUgNf7TE/psJUOZ+JZEo1VVSuoYuTo/QW6XGbW+vp180uaEdVR6J8KpdHDVMpBNiMrEDXUHebKwFepBShpnpbK3enfl/c0sRiYwbjvOLXVa3g+s3dbmPCBzRNNbpdWcICoOoFyOmh1mp4lzfhU+CkSAFYsosttQbX1107bymNjqVRazKtTIjMKTBcrBMx0Zx1sx0N9yJrsYKatYmpVUJlWx+Ft7EjcfKXVLY+HTzcvH49Cre0Kqzjp3s6ZgeOYasWCowfxMqob272zA2Gmv8AxPj8Vw5Nle5tcqGuQRbQaWN9bW7Tl2JL2L06Zp5bB7WBBAtqB636SQKeIepTyLY1dlQk+W439L669SYnsqim3v25X0sszYpbSqZdFvTPyVvr7czsvBMUGp6X36+uv6zbUKwPkY6dD2/pOX8q8winX/h2LeawBb7yi39PkJ0RHG853GYeWHq59ea5o2ZOFW8ovr6uJkxdEqdpEsRqJsqdQMMrfI9pBxNHKZrpoypTd916m8pVRVQG/mGh9D7SFiKG176ag7azXUKzK2dfp3kniHG6aUWrVAbIMzW1PsPeSSX5LW/V6/dDXlSlSd46ehC4rhLrmUm/W25/rOdcYpinUzrVdajMHFM1LDrrmA8rXJI95uuYeYzWwoqUGyF2CZWYDqCRmHdevr0Mo2IxDVKThmGYuoyX8110Hly3tpbfcy/2Vg60U3N2zat89Vr+hhicRHcjBq/Wnw7OfB9RssTxSswpIz0zbxAczB2FzcMSRpYAWYazonCuY8P4ZNSooYMVyhw5Nrai297/AIHtOT4YXDXCllNhTC2uSNdPkDb0ihimbIQCApYKEULqRpmci2yk2N+sscVgKeIiovK2eVut3a732mjHESjm3e/tpmddbjuEZsgbXe4BAvvYki14w9RHGak6uvdTe3uOk5QuLIZqyICXNsrPmctfLmA0J82unbWXD/8APsSKjsviZfLYZtLuNgp9r6ae0qsVsmNGi6kG8up2fbpobuHx3S3JeOZaLzd8E5gejZT5k6jt6qentKrjONUkqeE582lyouACbXftsdpOHaVkHVoONSN4t6PivdFlUhTrJ05Z21R1XB4pKqh0Nwf7sfWSZzLgvF3w73Gqn4l7j950TB4paqCohuD/AGQfWdZgMfHExs8pLVe65enmcvjcFLDS4xej9nz9STERLE0RERAEREASp80HzP7KPwlslW5jT/MII+JdPylPt1f5R9q9zd2f/rd3wU6prtNdiaZLAAazb1sOVMjVaJHmU6zlKc0tDr6dRLNFR5j4xQpl6DoHyqly7AXNs/8AlhRcEbZuhlWXF+cnDo6CqbL4j3vTv8F9SRYDbt2l44zy8tfPXSkfHAAuCbML2zFddr9LbCVXGcR/hnWmUS603RSlJVYZgUcONTm+LrcGx02nUbOnSdO1PN/uu+uyztmuzJcOooNoKr+Ruo+zTThfIiYjGui1aWfJ4i57H4XY+UkN0Ntb6bC80lFkChXqnLYtZBqG03Lf3pN8r4TELTppSy1ADmOZ2Fragqb2udbj12mjfAVEzMoBp3yMdP1vYnp/SWdPdzy3W+zPnle5X1N7LrXf/BgoMPtXYsLKF+8TbUe21u8l08e9LyAFWy7gi+fvcbD09NZHxPD3p5UsCxUsSLeUDfW/SxjA4R2YAaNcWv1O49DM5btrvQxpud7K6ZMoVipV2XVr3bqxuSWv9PpOicm8y+KgSpo4sNdL+olDo8LrlyKi3Uk7bXP3R0lz4Ny/lAdrgjpKXaToTp2lr1NffEusFGpztwfz6WL0jiSLhhlPyP6GV3AY4ZvDLAkdf0PYzcBtJytWi4uzN2dM8PSKGfCmbUb7ehGxBHUSYhDix36SKVKn0nik32hSb11KZzBy58TooKf9pbjKxsuZVAN7k79B6C8pnFMHWpBFr0nptTJuy2JuVUpYjpa3WdpeiG237zR8zcOqVaNSlRyo72LnY1AoOVQx+HWx7aS+wO12moVUrcdLc3ySv1Z5X62aFfCKV5Q8Pj4OR3U2zBxVzAWfRdxbMxtbQkk+3eSuJY0uGRjTWyoQtMBg5HdgfKbE3O41FhPRoVx4tN6IDhVUh1YtmGxDa2Nrek19QvTvTZRTFSwN7Eiza27ar+c6ZWehUtta/BIw1aiwRGRk812dbnIoBuB6nTX0PfSfw/F06LsEq1lUtamSDlK9XN+oubetpr0xlvEoB0Wk27Ku4upsAfMNQPx7mZ8PxgoodwKuXNTpB18gH3gOrGwvfsIlG6szyM7O6f1GevTp+IxPnUHIGUOofQWYt9656jtpLVwXmGqGppiFqZSu+UEKAALrk+IbX95UsHQZaqpTrKQVznxGKpc20F9L7fT0mdTWcUqmeirefKCVBZCwX3JJ76/QyCtQhWjaavz612cyejWnTleP3tOqPp+YPebvlfixo1MrH/Lc6+h6NKZy4awL0cQrhlAYX1W+zBWuRrvYXtrNupnJXlha14STa0a0f8PR9+fWdBaOJo2ktftzrt59mi5W4h4lEA/ElgfUfZP6fKb2drQrRrU1Ujo/tu7Q5CrSdKbhLVCIiSkYiIgCaTmKj5RU7aH2P9/jN3I2NoZ0ZO4/HpNfFUfzUZQ4rLt1XmS0an46il9sUUgHQ/IyDiKVtCJNrAqSDuL3HtMZIdflcHa3uJ86inB5nUwluu5qqjMnmU2MrnHOELXc10VVrXGc3Kq62sdBpfb6S1VqJG8i1aIJ0lhhsRKlJTjr5dj4o2pU6dWO7Nd5zTE4CrhWyMqqtSoWSqjEMuXK+jXte2msh4/AhKRqZmdWdU0IsrAnYgWuQpse151VaJt5Tb94q4ckEFKZzG7eQWfr5x1Mt4baatvR8/a3uV09lxu9yeXM42aZVXDIWAYEEsPL1Hl9jJi0V8TxmLBVbcBrAgam2/xECdHp8ApIzVBRS7FWygsqZlIIIQGwOnsfnPOK4StRzWqU1Ll1qDzEAMpBBAtpsL95s/1ik+p6cVrw18/IhWyatspR8f7FS4ZzB4TeHVUmxtn/ANJ2JW95d1qLluzj02XT9ZqX5cS7MKdMFtergbmyhvhGvSQeIcJbdmZvfp7CaFZ4evJOPR4/dF1lxhcNVhG05p9muXM1WDK4OtUZagqq62yqMoBBGQlurDX6y+ctcXXEU82zDRh2P7GUKthwosRMfCeIthqoqDbZh3X95sYrDrEwcv38eNuzL6jxYaNKG7DQ60skaOLHf85AwlcOodTcEAg+hki85iUbPmQyjmeSSptMjWYWM9Zgws2/f95HdCh9I17Qs+TIHEeD06jK9RWJWwzU3ZHyi/lJB1Gp+sqvHOCtSDCklE0HzZWOZmpH7Oe9rN/q1+svqVbzzVoA7aH0m/hdoVaDSvdcOr+PTkQ1aEKn6snx+ThmOw5BqGsAaoYC6m19gPKBY3Ex0aeHdhqaRza3uwW24W++3Wdf4jwChVKNXohvDGUZQACt75SB0v2tKpx/lggOuGo3ouysArXamN3Ap6k6jQ62DW6XnSYfa9Gs919F87W8f7cirrYCpT6Ss0Vtqj13FqqZaXwNkVRcm5vte3c/oBFEO2bEPSR2X7tgLJpcKBY9Nf3k1eFV8wWk4JJByVKe2bYNpYdeg2J03kDBVSmHVlCWJCMfNcZib7NqbW0tN+Mk/wBJqyjJPM3vL1TEK6kG6OW0UsABr9kjodMw0OvWXTCsdCZTuCIuHZsTTFRhTRUNHw2BJcKWKrrYA3165b6XvLphtQDYgEAi+9jqJzu1WnUullpfi9fdZ566nQ7Mlag4y1vfu+otPJuIy1gvRwR9NR+X4y+TmvLzZa9M/wCoD66TpIljsObdCUX1S9Un63KXa8bV0+K92j7ERLoqhERAEREArXMnDDrWQfzj/wBpWi06Q0qvG+BHV6I9Sv8A8/tOb2tsl1JOtR1617r3LjA4xJfjqdz9mV8t0OokarQ6rtPWYjQ/8GBp1nNJOLLyOWhHzWnoVZlJB3H00nlsOp2YfPQzNWepJvLrPoqaT5mnj+HPf6G88Gi3eEo8QlHies81mPpgiT/4Y+s+thQBdrD3kkZKLvcmhOMHe5R8bhWJNhpIdTAgLnc5VG5O3y7n0m64zzBQS60B4rd9kB9Tu3y+sqOKrVKrZqhJ7DYD+UbCdBho1JxTa3Vz18CPEbSppWgrvyXyWXlfmRaTeC1xSJ8rH7JPcdFP4S/o4Oo6zjSUDLjyviaqL4dQZqfS+pX29PSQ47Zv5Hv0tetcefb69utbTxLb/wATxLo0+rWtodR+UxUnBGhvPrTn3Gz3Wblkz29HqpnhamuuhnjORqI8UH4gJ6kzLdfX/JLWpMLUEM8GmehuI8S28xUeDPIpr9LMDUGFyrn56yIxOYPlXMoyhsouotYgHtNgW9Z4e0mjO3UTKX/JXINNm3Jv6mS1PefFpCZqFG+wiTRlOa1MmGfKwbaxvOm4epmVW+8ob6i85/w3hjVagUddyLELpqT+WnedDpUwoCjYAAewnQbAhK05/tdl2tX9LnN7YnCTilqr+GRkiInRlMIiIAiIgHh5DrtJlQSNUpzGRLTsjQcTwCPqRr3Gh/r85XMTgGTW+Yeun5S9vh7yFX4deaOIwVKtnOOfHrLCjiZQyTKK2IQaMCPe5mCpjKX3wtvpbtbSW/Ecvhukgvyop6Sv/o9JPK/j/BtrGvkVp6+H38TXfQm/4TF/iFIEZSzd9Gv+VvxlrTlJO0l0uV0HQSWGy4Rybb7w8c+KKViOMuR/l0m92NvwH7yt8Up4mt8bG33Rov06/OdgHLydpjqctqeknpYGlSzhFXIpYpyycjiH+EMOkz0eEMek6+3Kq9pmw/LCrraSfhbPPywtqc74RyuT5mE344WEFgJc/wDD7CwEwVcB6SVQ3Tz8iZUv4YrqIGI6Np+X1lgq4H0kOvw8HpNPFYKjiP1rPitTYpVpQ00NcZicT1VwDpqhPsdR9JgbFFfjQ+66/hKOrsutTzj0l5+DN+GKi9cj0HK7EzIMV3Ej/wAbSP2wP5gV/MT541M/9RP9wmo8PUvZwfgybfg+tEqnVQ30Ya21G/qPSZPJ3/CR6Cq3wm/sD+c3OA4TfUgyans+vUeUWu3L1zI516cdWRsLhi5sgJP97npLTw3l1AL1Tf8A0qbD5nczPgMGEGgtNqukvsFsijT6VTpPnou75KXF46c+jB2Xn97BhsJTpi1NQvsN/c9ZJmNTPYlykkrIqJNt3Z9iInp4IiIAiIgCfLT7EA8FJ88OZIg9uzH4QnzwhMsRYbzMXhCPCmWJ5YbzPApiPDE9xPRdnjwxPhpiZInlhdmE0BPDYeSYix6pMgVMED0kSrwybqJi4Jkka80VqpwmRavAgdxLblE+eGJg6KJVi5IpjcrIek9UuVEH2RLj4Yn3II/Cj14yZX8NwRV6CbGlgwOk2Fp9mappEUsRORHSlMmSZImZE5M8hZ6iIMRERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQD/9k=",
+		"precio": 19.90,
+		"tipo_de_producto": "frutas y verduras",
+		"descripcion": "La papaya maradol cuenta con textura suave y delicioso sabor."
+	},
+	{
+		"titulo": "Chile Serrano",
+		"url": "https://res.cloudinary.com/riqra/image/upload/v1685117968/sellers/merco-monterrey/products/bj2xqg3klamwljlzhyfy.jpg",
+		"precio": 58.00,
+		"tipo_de_producto": "frutas y verduras",
+		"descripcion": "No cabe duda de que el chile es un alimento que no debe faltar por nada en tu cocina, ya que es el ingrediente de varias recetas de cocina."
+	},
+	{
+		"titulo": "Café soluble Nescafé Clásico 400 g",
+		"url": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00750105862020L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+		"precio": 189,
+		"tipo_de_producto": "abarrotes",
+		"descripcion": "Empieza tu día de la mejor manera con el delicioso sabor de NESCAFE´® Clásico®, el original café de México."
+	},
+	{
+		"titulo": "Pan blanco Bimbo grande 680 g",
+		"url": "https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00750100011120L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+		"precio": 50.50,
+		"tipo_de_producto": "abarrotes",
+		"descripcion": "Prueba el rico Pan Blanco Bimbo Grande es ideal para preparar un sabroso desayuno, lunch o cena. Es perfecto para hacer deliciosos sándwiches para toda la familia en cualquier momento del día."
+	}
+]
