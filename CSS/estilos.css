@@ -1,0 +1,199 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Inicio del Header */
+
+header{
+    border-bottom: 2px groove rgb(163, 32, 32);
+    display: grid;
+    grid-template-areas: 'tituloPrincipal btns-principales';
+    padding-bottom: 10px;
+}
+
+.titulo-principal{
+    grid-area: tituloPrincipal;
+    display: flex;
+    flex-direction: row;
+}
+
+.titulo-principal > img{
+    width: 150px;
+}
+
+.btns-principales{
+    grid-area: btns-principales;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#img-carrito{
+    width: 50px;
+}
+
+.btns-principales > img{
+    transition: transform 0.3s, opacity 0.5s;
+}
+
+.btns-principales > img:hover{
+    transform: scale(1.2);
+    opacity: 70%;
+}
+
+#img-user{
+    width: 40px;
+}
+
+/* Fin del Header */
+
+/* Inicio del carrusel */
+
+.carrusel{
+    border: 1px solid;
+    margin: 30px 20px 20px 20px;
+    padding: 100px;
+    text-align: center;
+}
+
+/* Fin del carrusel */
+
+/* Buscador */
+
+.buscador{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#barra-buscar{
+    border-radius: 2em;
+    padding: 3px;
+    transition: padding-right 1s;
+}
+
+#barra-buscar:focus{
+    padding-right: 300px;
+}
+
+#img-buscar{
+    width: 15px;
+    margin-left: 10px;
+}
+
+#img-buscar:hover{
+    transform: scale(1.2);
+    opacity: 70%;
+}
+
+/* -- -- - --*/
+
+/* Productos */
+
+.productos{
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.producto{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    max-width: 300px;
+    border-radius: 2em;
+}
+
+.producto:hover{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
+}
+
+.producto > img{    
+    width: 200px;
+}
+
+.producto > button{
+    border: none;
+    outline: 0;
+    padding: 10px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 14px;
+    border-radius: 2em;
+    transition: transform 0.5s, opacity 0.5s;
+}
+
+.producto > button:hover{
+    transform: scale(1.05);
+    opacity: 80%;
+}
+
+.titulo-producto{
+    font-weight: bold;
+}
+
+.descripcion-producto{
+    font-size: 12px;
+    text-align: justify;
+}
+
+.precio{
+    color: gray;
+    font-size: 22px;
+}
+
+#desplegar , #leerMenos{
+    display: none;
+}
+
+#leerMas , #leerMenos{
+    color: blue;
+    cursor: pointer;
+}
+
+/* -------------- */
+
+/*------DEPARTAMENTOS-----*/
+
+.departamentos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: left;
+    margin: 20px;
+    border-bottom: 2px groove black;
+    padding: 5px;
+}
+
+.departamentos button{
+    border: none;
+    border-radius: 2em;
+    background-color: rgb(246, 114, 110);
+    font-size: medium;
+    padding: 10px;
+    transition: transform 0.5s, opacity 0.5s;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+
+.departamentos button:hover{
+    transform: scale(1.1);
+    opacity: 70%;
+}
+
+.departamentos .activo{
+    border: 3px solid rgb(6, 6, 131);
+}
+
+#titulo-depa{
+    font-size: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+}
